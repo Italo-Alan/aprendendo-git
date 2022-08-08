@@ -1,1 +1,3 @@
-Me chamo Italo Alan
+Me chamo Italo Alan.
+Agora, estamos testando a parte do versionamento, já aprendemos como upar a versão inicial do código no github.
+Além disso estou achando muito útil aprender sobre isso, acredito que dependendo da área que for atuar seja algo muito importante.
